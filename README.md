@@ -19,9 +19,9 @@ In this Try It Together activity, you'll be code builders! Now that you have a r
 ## ToDo list ✅
 **Attention**: When you complete a task, put an `x` in the middle of the brackets to mark it off your ToDo list.
 
-1. [ ] Navigate to the `index.html` file. 
-2. [ ] On line 23, make the copy `I'm Chris Doe!` bold wrapping the copy in the correct semantic HTML tag. Remember how the screen reader will read the tag.
-3. [ ] After the `I'm Chris Doe` copy, paste the following copy to make the paragraph tag more robust: `Throughout my career, I've worn multiple hats in the web development industry. As a Front-End Developer, I meticulously crafted pixel-perfect user interfaces for various clients. During my tenure as a UX Designer, I focused on creating intuitive and delightful user experiences. As a Full-Stack Engineer I built robust web applications from the ground up. Additionally, I've freelanced on diverse projects, ranging from e-commerce sites to personal blogs. My journey also includes a stint as a Production Assistant at Webflix Studios, where I contributed to video production and multimedia content creation.`
+1. [ x] Navigate to the `index.html` file. 
+2. [x ] On line 23, make the copy `I'm Chris Doe!` bold wrapping the copy in the correct semantic HTML tag. Remember how the screen reader will read the tag.
+3. [ x] After the `I'm Chris Doe` copy, paste the following copy to make the paragraph tag more robust: `Throughout my career, I've worn multiple hats in the web development industry. As a Front-End Developer, I meticulously crafted pixel-perfect user interfaces for various clients. During my tenure as a UX Designer, I focused on creating intuitive and delightful user experiences. As a Full-Stack Engineer I built robust web applications from the ground up. Additionally, I've freelanced on diverse projects, ranging from e-commerce sites to personal blogs. My journey also includes a stint as a Production Assistant at Webflix Studios, where I contributed to video production and multimedia content creation.`
 4. [ ] Next, emphasize the following five word pairs using the appropriate sematic HTML tag in the copy above:
    1. [ ] Front-End Developer
    2. [ ] UX Designer
